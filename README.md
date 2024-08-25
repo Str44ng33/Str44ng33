@@ -7,6 +7,9 @@ Bem-vindo ao meu perfil GitHub!
 - **Futuro:** C++, Ruby
 - **Interesses:** Hacktivismo, cibersegurança, programação
 
+## 🎨 Estilo "Hacker"
+![Estilo Hacker](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g3cTIyZGw0bmhpZnJ3ajZvY2twenQ1Mjl2bWFuMGE5bjFseDI0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJ5z2bgCLBshZUA/giphy.webp)
+
 ## 💻 Projetos em Destaque
 ### [Calculador de IMC](https://github.com/Str44ng33/Meu_calculador-de-imc)
 Um simples calculador de IMC feito em Python.
@@ -15,7 +18,7 @@ Um simples calculador de IMC feito em Python.
 Um gerador de tabuada em Python para aprender e praticar multiplicação.
 
 ## 🌱 Tecnologias e Ferramentas
-- **Linguagens:** Python (ainda á aprender C++ e Ruby)
+- **Linguagens:** Python, C++, Ruby
 - **Ambiente:** Linux
 
 ## 📈 Estatísticas do GitHub
@@ -25,4 +28,5 @@ Um gerador de tabuada em Python para aprender e praticar multiplicação.
 - [Instagram](https://www.instagram.com/sstr4ng.3_/)
 - [Threads](https://www.threads.net/@sstr4ng.3_)
 - [Telegram](t.me/@SStrng3)
+
  
