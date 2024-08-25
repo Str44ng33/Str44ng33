@@ -7,7 +7,6 @@ Bem-vindo ao meu perfil GitHub!
 - **Futuro:** C++, Ruby
 - **Interesses:** Hacktivismo, cibersegurança, programação
 
-## 🎨 Estilo "Hacker"
 ![Estilo Hacker](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g3cTIyZGw0bmhpZnJ3ajZvY2twenQ1Mjl2bWFuMGE5bjFseDI0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJ5z2bgCLBshZUA/giphy.webp)
 
 ## 💻 Projetos em Destaque
