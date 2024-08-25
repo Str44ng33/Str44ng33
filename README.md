@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil GitHub!
 - **Futuro:** C++, Ruby
 - **Interesses:** Hacktivismo, cibersegurança, programação
 
-![Estilo Hacker]([https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBxNTdtOTBodG04MnNpYnBmOGNxMWlxc2d4aDlocXNsdTM5enJvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.webp])
+![Estilo Hacker](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBxNTdtOTBodG04MnNpYnBmOGNxMWlxc2d4aDlocXNsdTM5enJvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.webp)
 
 ## 💻 Projetos em Destaque
 ### [Calculador de IMC](https://github.com/Str44ng33/Meu_calculador-de-imc)
