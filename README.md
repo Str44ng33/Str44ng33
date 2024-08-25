@@ -1,4 +1,4 @@
-# Olá, eu sou o [Str44ng33] 👋
+# Oiiii eu sou o strang333 :D
 
 Bem-vindo ao meu perfil GitHub!
 
