@@ -15,7 +15,7 @@ Um simples calculador de IMC feito em Python.
 Um gerador de tabuada em Python para aprender e praticar multiplicação.
 
 ## 🌱 Tecnologias e Ferramentas
-- **Linguagens:** Python, C++, Ruby
+- **Linguagens:** Python (ainda á aprender C++ e Ruby)
 - **Ambiente:** Linux
 
 ## 📈 Estatísticas do GitHub
