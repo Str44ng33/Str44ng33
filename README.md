@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o [Str44ng33] 👋
 
-<!--
-**Str44ng33/Str44ng33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil GitHub!
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
+- **Aprendizado:** Python (iniciante), Linux
+- **Futuro:** C++, Ruby
+- **Interesses:** Hacktivismo, cibersegurança, programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projetos em Destaque
+### [Calculador de IMC](https://github.com/Str44ng33/Meu_calculador-de-imc)
+Um simples calculador de IMC feito em Python.
+
+### [Gerador de Tabuada de 1 a 10](https://github.com/Str44ng33/Gerador-de-tabuada-de-1-at-10)
+Um gerador de tabuada em Python para aprender e praticar multiplicação.
+
+## 🌱 Tecnologias e Ferramentas
+- **Linguagens:** Python, C++, Ruby
+- **Ambiente:** Linux
+
+## 📈 Estatísticas do GitHub
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Str44ng33&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+
+## 💬 Conecte-se Comigo
+- [Instagram](https://www.instagram.com/sstr4ng.3_/)
+- [Threads](https://www.threads.net/@sstr4ng.3_)
+- [Telegram](t.me/@SStrng3)
+ 
