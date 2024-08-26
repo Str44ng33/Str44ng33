@@ -24,8 +24,6 @@ Um gerador de tabuada em Python para aprender e praticar multiplicação.
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Str44ng33&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
 
 ## 💬 Conecte-se Comigo
-- [Instagram](https://www.instagram.com/sstr4ng.3_/)
-- [Threads](https://www.threads.net/@sstr4ng.3_)
 - [Telegram](t.me/@SStrng3)
 
  
